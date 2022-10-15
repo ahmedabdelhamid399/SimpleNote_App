@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes_SQLite_Demo</string>
+    <string name="add_note">Add Note</string>
+    <string name="no_notes_found">No Notes Found</string>
+    <string name="dec_16">DEC 16</string>
+    <string name="lbl_new_note">New Note</string>
+    <string name="lbl_edit_note">Edit Note</string>
+    <string name="enter_your_note">Enter your note</string>
+</resources>
